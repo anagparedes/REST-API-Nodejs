@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "An Rest API with Nodejs, Mongodb and Cloudinary Management Media",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
