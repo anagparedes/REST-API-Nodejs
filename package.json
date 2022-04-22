@@ -1,0 +1,26 @@
+{
+  "name": "REST-API-Nodejs",
+  "version": "1.0.0",
+  "description": "An Rest API with Nodejs, Mongodb and Cloudinary Management Media",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anagparedes/REST-API-Nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anagparedes/REST-API-Nodejs/issues"
+  },
+  "homepage": "https://github.com/anagparedes/REST-API-Nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
